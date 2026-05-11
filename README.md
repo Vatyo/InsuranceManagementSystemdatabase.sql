@@ -15,7 +15,8 @@ A relational database built with MySQL for managing insurance company operations
 - v_policy_claim_counts — view: policy claim statistics
 
  📸 Screenshot
-<img width="781" height="1041" alt="Insurance Management System" src="https://github.com/user-attachments/assets/0691038d-321b-4b32-aae9-d199e007f296" />
+<img width="535" height="850" alt="InsuranceManagementSystemdatabase" src="https://github.com/user-attachments/assets/25374339-3bfc-4e82-ba11-bba5f4e552ef" />
+
 
 
  🛠️ Tech Stack
